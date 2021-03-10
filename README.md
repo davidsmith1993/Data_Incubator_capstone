@@ -20,14 +20,17 @@ Simple script to combine datasets into one dataset and remove extreme scoring co
 A number of models were run on some features from the comments themselves. A random forest regression was selected as the best scoring model.
 
 ## Random Forest Regression DI.py
+Final model created to predict comment score. More information can be seen st https://davidsmith-capstone.herokuapp.com/model_fits
 
 
 # Plots
 ## Plots.py
-
+Generates plots showing score within subreddits by religion and political affiliation
 ## Word Freq.py
+Plots showing the most frequent words for top and bottom scoring comments
 
 ## Histogram of Score.py 
-
+Generate Basic plots looking at the distribution on the score
 
 ## Deployable model.py 
+The random forest regression model used at https://davidsmith-capstone.herokuapp.com/deployed
