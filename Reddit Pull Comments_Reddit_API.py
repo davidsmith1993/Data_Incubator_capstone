@@ -12,7 +12,7 @@ import praw
 
 reddit = praw.Reddit(client_id="2srEoGpH-ElTzw",
                      client_secret="iAoRJCVrTvCRQD90MBRPRW0UQzg",
-                     user_agent="Python data scrap for analyses (by /u/oaky180)",
+                     user_agent="Python data scrap for analyses (by /u/removed",
                      username="removed",
                      password="removed")
 
